@@ -1,5 +1,5 @@
 /*!
- * boilerplate-grunt_jekyll_less (https://github.com/ZorphDark/boilerplate-grunt_jekyll_less.git)
+ * starter-grunt_jekyll_less (https://github.com/ZorphDark/starter-grunt_jekyll_less.git)
  * <> by @zorphdark 2016
  */
 
