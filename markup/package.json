@@ -1,7 +1,7 @@
 {
-	"name": "boilerplate-grunt_jekyll_less",
+	"name": "starter-grunt_jekyll_less",
 	"description": "Start a new front-end project using GruntJS to perform task automation with a Jekyll/LESS/uglify/watch basic set-up.",
-	"homepage": "https://github.com/ZorphDark/boilerplate-grunt_jekyll_less.git",
+	"homepage": "https://github.com/ZorphDark/starter-grunt_jekyll_less.git",
 	"dependencies": {
 		"grunt": ">=0.4.0",
 		"grunt-banner": "~0.6.0",
